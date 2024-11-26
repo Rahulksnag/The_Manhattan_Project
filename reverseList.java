@@ -21,7 +21,7 @@ class Solution {
             temp=rev2;
         }
         
-        return temp;
+        return rev1;
     }
     
 }
